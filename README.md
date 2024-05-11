@@ -14,7 +14,6 @@ Arduino_Src dir contains two more dir, each containing one file:
 		  Only the user input definition needs to be updated. While there should be no problem in running with the PCA board.	
 		2. The GUI does not yet have the feature to select COM port, hence the COMPort needs to be hard-coded manually.
 		
-@Author: Yashwanth M
 @Date:   17/12/2023		
 
 
