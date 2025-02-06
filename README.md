@@ -1,5 +1,9 @@
 # VAYU-Control-GUI
-A windows application for controlling BLDC motors using serial communication via PWM signals from Arduino
+![GUI_website1](https://github.com/user-attachments/assets/779e2a6c-a177-4275-94c7-cc5ac37fa094)
+
+![GUI_stack](https://github.com/user-attachments/assets/5b73aa8e-37ff-440d-8b75-0e0d96ad96d6)
+
+A Windows application for controlling BLDC motors using serial communication via PWM signals from Arduino
 
 
 This is a dir of two files:
